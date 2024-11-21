@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+/* Add CSS Styling 
+Intro to CSS Foundations Exercise 04 Chaining Selectors*/
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    aspect-ratio: 1/2;
+}
